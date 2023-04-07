@@ -26,5 +26,10 @@ Epoch 1/2
 Epoch 2/2
 782/782 [==============================] - 36s 46ms/step - loss: 0.1833 - accuracy: 0.9332 - val_loss: 0.3996 - val_accuracy: 0.8545
 
+---
+
+Pytorch ile aynı mimariyi yazdık ve Lion optimizer'i ekledik. Sonuçlar yine çok başarılı.
+Son olarak bu çalışmaya http://arxiv.org/abs/2303.11637 bu makaleyi uygulayacağız.
+
 
 
